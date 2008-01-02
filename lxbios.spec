@@ -6,6 +6,7 @@ License:	GPL
 Group:		System/Base
 Url:		http://lxbios.sourceforge.net
 Source0:	http://downloads.sourceforge.net/lxbios/%{name}-%{version}.tgz
+BuildRoot:	%{_tmppath}/%{name}-%{version}-buildroot
 
 %description
 At boot time, LinuxBIOS places a table (known as the LinuxBIOS table) in low
