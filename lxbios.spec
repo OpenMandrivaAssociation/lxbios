@@ -1,7 +1,7 @@
 Summary:	An utility to read/write LinuxBIOS parameters
 Name:		lxbios
 Version:	2.0.1
-Release:	%mkrel 4
+Release:	%mkrel 5
 License:	GPL
 Group:		System/Base
 Url:		http://lxbios.sourceforge.net
