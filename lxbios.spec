@@ -4,7 +4,7 @@ Version:	2.0.1
 Release:	%mkrel 5
 License:	GPL
 Group:		System/Base
-Url:		http://lxbios.sourceforge.net
+Url:		https://lxbios.sourceforge.net
 Source0:	http://downloads.sourceforge.net/lxbios/%{name}-%{version}.tgz
 BuildRoot:	%{_tmppath}/%{name}-%{version}-buildroot
 
